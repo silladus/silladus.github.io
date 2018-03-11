@@ -30,7 +30,7 @@ css: ['index.css', 'sidebar-popular-repo.css']
     <div class="row">
 
         <!-- Post List -->
-        <div class="col-md-8" style="padding-left:50px;padding-right:50px">
+        <div class="col-md-8" style="padding-left:150px; padding-right:150px">
 
             <ol class="post-list">
                 {% for post in paginator.posts %}
@@ -56,8 +56,10 @@ css: ['index.css', 'sidebar-popular-repo.css']
 
         </div>
 
-        <div class="col-md-4" style="padding-left:50px;padding-right:50px">
-            {% include sidebar-popular-repo.html %}
+        <div class="col-md-4" style="padding:0px 150px 0px 150px">
+			<p style="padding:20px">
+				{% include sidebar-popular-repo.html %}
+			</p>
         </div>
 
     </div>
