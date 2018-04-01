@@ -15,7 +15,6 @@ menu: Bookmark
 ## Android
 - [Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Powerful and flexible library for loading, caching and displaying images
 - [greenDAO](http://greendao-orm.com/) - greenDAO is a light and fast ORM solution that maps objects to SQLite databases
-[^^]:- [EventBus](http://greenrobot.github.io/EventBus/) - Android optimized event bus that simplifies communication
 - [Transitions-Everywhere](https://github.com/andkulikov/Transitions-Everywhere) - Backport of Android Transitions API for animations
 - [Battery Historian](https://github.com/google/battery-historian) - Analyze battery consumers using Android "bugreport" files
 - [Facebook Rebound](http://facebook.github.io/rebound/) - Spring Animations for Android
