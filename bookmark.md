@@ -15,7 +15,7 @@ menu: Bookmark
 ## Android
 - [Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Powerful and flexible library for loading, caching and displaying images
 - [greenDAO](http://greendao-orm.com/) - greenDAO is a light and fast ORM solution that maps objects to SQLite databases
-[^^]- [EventBus](http://greenrobot.github.io/EventBus/) - Android optimized event bus that simplifies communication
+[^^]:- [EventBus](http://greenrobot.github.io/EventBus/) - Android optimized event bus that simplifies communication
 - [Transitions-Everywhere](https://github.com/andkulikov/Transitions-Everywhere) - Backport of Android Transitions API for animations
 - [Battery Historian](https://github.com/google/battery-historian) - Analyze battery consumers using Android "bugreport" files
 - [Facebook Rebound](http://facebook.github.io/rebound/) - Spring Animations for Android
@@ -26,18 +26,18 @@ menu: Bookmark
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - Powerful & easy to use chart library for Android
 - [Robolectric](http://robolectric.org/) - Unit test framework
 
-[^^]## IOS
-[^^]- [Popping](https://github.com/schneiderandre/popping) - A collection of animation examples for iOS apps.
+[^^]:## IOS
+[^^]:- [Popping](https://github.com/schneiderandre/popping) - A collection of animation examples for iOS apps.
 
-[^^]## PHP
-[^^]- [Idiorm](https://github.com/j4mie/idiorm/) - A lightweight nearly-zero-config object-relational mapper and fluent query [^^]builder for PHP5
-[^^]- [GitElephant](https://github.com/matteosister/GitElephant) - An abstraction layer to manage your git repositories with php
-[^^]- [Propel](https://github.com/propelorm/Propel) - ORM for PHP5
-[^^]- [SimpleDOM](https://code.google.com/archive/p/simpledom/) - Built upon SimpleXML and provids DOM methods using SimpleXML's [^^]syntax.
+[^^]:## PHP
+[^^]:- [Idiorm](https://github.com/j4mie/idiorm/) - A lightweight nearly-zero-config object-relational mapper and fluent query [^^]:builder for PHP5
+[^^]:- [GitElephant](https://github.com/matteosister/GitElephant) - An abstraction layer to manage your git repositories with php
+[^^]:- [Propel](https://github.com/propelorm/Propel) - ORM for PHP5
+[^^]:- [SimpleDOM](https://code.google.com/archive/p/simpledom/) - Built upon SimpleXML and provids DOM methods using SimpleXML's syntax.
 
-[^^]### Symfony
-[^^]- [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - Generate a decent documentation for your APIs
-[^^]- [FOSRestBundle](http://symfony.com/doc/current/bundles/FOSRestBundle/index.html) - Creat a REST API with Symfony2
+[^^]:### Symfony
+[^^]:- [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - Generate a decent documentation for your APIs
+[^^]:- [FOSRestBundle](http://symfony.com/doc/current/bundles/FOSRestBundle/index.html) - Creat a REST API with Symfony2
 
 ## Javascript
 - [fullPage.js](http://alvarotrigo.com/fullPage/) - To create fullscreen scrolling websites / single page websites
