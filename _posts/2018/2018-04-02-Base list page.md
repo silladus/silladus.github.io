@@ -11,17 +11,14 @@ categories: jekyll update
 
 实现功能应包含四个要素：
 
-*1.数据
-
-*2.列表控件
-
-*3.列表适配器
-
-*4.下拉刷新上拉加载更多
+- 数据
+- 列表控件
+- 列表适配器
+- 下拉刷新上拉加载更多
 
 数据类型、列表控件类型及其相对应的控件适配器均不可预知，下拉刷新上拉加载更多还是通用的好，确定引入第三方框架[android-Ultra-Pull-To-Refresh支持上拉加载更多的版本](https://github.com/captainbupt/android-Ultra-Pull-To-Refresh-With-Load-More)。
 
-###接下来就是实现了。
+### 接下来就是实现了。
 
 首先是抽象基类接口：
 
@@ -87,10 +84,11 @@ public abstract class BasePage<T, LV extends View, A> implements PtrHandler2 {
 
 列表控件引入继承View的泛型，不管是ListView、ReclclerView还是其他列表控件理论上均予支持，这里只是一个接口。另外在这里做PtrHandler2接口的具体实现，Adapter、数据也均在这里声明传入方法。基本的就是这样。
 
-###单独的使用，列表控件已ListView为例
+### 单独的使用，列表控件以ListView为例
 
 ```java
-BasePage<String, ListView, CommonAdapter<String>> mPage = new BasePage<String, ListView, CommonAdapter<String>>(0, context) {
+BasePage<String, ListView, CommonAdapter<String>> mPage = new BasePage<String, 
+ListView, CommonAdapter<String>>(0, context) {
     @Override
     public CommonAdapter<String> createListAdapter() {
         return new CommonAdapter<String>(R.layout.item_order_listview_detail) {
@@ -112,7 +110,7 @@ viewGroup.addView(mPage.rootView);
 ...
 ```
 
-###在ViewPager中使用
+### 在ViewPager中使用
 
 基本思路还是一样的，一开始生成相对数量的BasePage保存在集合里(我选择SparseArray)，然后生成页面的时候添加进去。
 
