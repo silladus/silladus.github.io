@@ -13,7 +13,7 @@ menu: Bookmark
 - [Google Java Style Guide]( https://google.github.io/styleguide/javaguide.html)
 
 ## Android
-- [Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Powerful and flexible library for loading, caching and displaying images
+- [Glide](https://github.com/bumptech/glide) - Powerful and flexible library for loading, caching and displaying images
 - [greenDAO](http://greendao-orm.com/) - greenDAO is a light and fast ORM solution that maps objects to SQLite databases
 - [Transitions-Everywhere](https://github.com/andkulikov/Transitions-Everywhere) - Backport of Android Transitions API for animations
 - [Battery Historian](https://github.com/google/battery-historian) - Analyze battery consumers using Android "bugreport" files
