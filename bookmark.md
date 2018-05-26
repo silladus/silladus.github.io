@@ -26,18 +26,22 @@ menu: Bookmark
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - Powerful & easy to use chart library for Android
 - [Robolectric](http://robolectric.org/) - Unit test framework
 
-[^^]:## IOS
-[^^]:- [Popping](https://github.com/schneiderandre/popping) - A collection of animation examples for iOS apps.
+### Links about Android
+- [Android Fragment onCreateView vs. onActivityCreated](https://stackoverflow.com/questions/8041206/android-fragment-oncreateview-vs-onactivitycreated) - An interesting conversation in the first anwser follow reply.
+- [Android Activity Life-Cycle for Professional Developers](https://www.techyourchance.com/android-activity-life-cycle-for-professional-developers/) - Simpler and more complete than most of the resources out there (including the official documentation, unfortunately).
 
-[^^]:## PHP
-[^^]:- [Idiorm](https://github.com/j4mie/idiorm/) - A lightweight nearly-zero-config object-relational mapper and fluent query builder for PHP5
-[^^]:- [GitElephant](https://github.com/matteosister/GitElephant) - An abstraction layer to manage your git repositories with php
-[^^]:- [Propel](https://github.com/propelorm/Propel) - ORM for PHP5
-[^^]:- [SimpleDOM](https://code.google.com/archive/p/simpledom/) - Built upon SimpleXML and provids DOM methods using SimpleXML's syntax.
+[^^]: ## IOS
+[^^]: - [Popping](https://github.com/schneiderandre/popping) - A collection of animation examples for iOS apps.
 
-[^^]:### Symfony
-[^^]:- [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - Generate a decent documentation for your APIs
-[^^]:- [FOSRestBundle](http://symfony.com/doc/current/bundles/FOSRestBundle/index.html) - Creat a REST API with Symfony2
+[^^]: ## PHP
+[^^]: - [Idiorm](https://github.com/j4mie/idiorm/) - A lightweight nearly-zero-config object-relational mapper and fluent query builder for PHP5
+[^^]: - [GitElephant](https://github.com/matteosister/GitElephant) - An abstraction layer to manage your git repositories with php
+[^^]: - [Propel](https://github.com/propelorm/Propel) - ORM for PHP5
+[^^]: - [SimpleDOM](https://code.google.com/archive/p/simpledom/) - Built upon SimpleXML and provids DOM methods using SimpleXML's syntax.
+
+[^^]: ### Symfony
+[^^]: - [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - Generate a decent documentation for your APIs
+[^^]: - [FOSRestBundle](http://symfony.com/doc/current/bundles/FOSRestBundle/index.html) - Creat a REST API with Symfony2
 
 ## Javascript
 - [fullPage.js](http://alvarotrigo.com/fullPage/) - To create fullscreen scrolling websites / single page websites
@@ -46,27 +50,27 @@ menu: Bookmark
 - [Moment.js](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
 - [Underscore.js](http://underscorejs.org/) - It provides a whole mess of useful functional programming helpers without extending any built-in objects.
 
-[^^]:### AngularJs
-[^^]:- [Protractor](http://angular.github.io/protractor) - End-to-end test framework for AngularJS applications
-[^^]:- [angular-media-player](https://github.com/colthreepv/angular-media-player) - Directive for audio and video
-[^^]:- [Smart table](http://lorenzofox3.github.io/smart-table-website/) - Module to easily display data in a table
-[^^]:- [ng-table](http://esvit.github.io/ng-table/#/) - Module to easily display data in a table
-[^^]:- [ngToast](https://github.com/tameraydin/ngToast) - AngularJS toast
-[^^]:- [ANGM-GENERATOR](http://newaeonweb.com.br/generator-angm/) - AngularJS Yeoman Generator
+[^^]: ### AngularJs
+[^^]: - [Protractor](http://angular.github.io/protractor) - End-to-end test framework for AngularJS applications
+[^^]: - [angular-media-player](https://github.com/colthreepv/angular-media-player) - Directive for audio and video
+[^^]: - [Smart table](http://lorenzofox3.github.io/smart-table-website/) - Module to easily display data in a table
+[^^]: - [ng-table](http://esvit.github.io/ng-table/#/) - Module to easily display data in a table
+[^^]: - [ngToast](https://github.com/tameraydin/ngToast) - AngularJS toast
+[^^]: - [ANGM-GENERATOR](http://newaeonweb.com.br/generator-angm/) - AngularJS Yeoman Generator
 
-[^^]:### Node.js
-[^^]:- [utility](https://github.com/node-modules/utility) - A collection of useful utilities
-[^^]:- [cheerio](https://github.com/cheeriojs/cheerio) - Implementation of core jQuery designed specifically for the server
-[^^]:- [mongoose](http://mongoosejs.com/) - elegant mongodb object modeling for node.js
-[^^]:- [SuperAgent](http://visionmedia.github.io/superagent/) - Super Agent is light-weight progressive ajax API
-[^^]:- [connect-mongo](https://github.com/kcbanner/connect-mongo) - MongoDB session store for Express and Connect
-[^^]:- [Morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js
+[^^]: ### Node.js
+[^^]: - [utility](https://github.com/node-modules/utility) - A collection of useful utilities
+[^^]: - [cheerio](https://github.com/cheeriojs/cheerio) - Implementation of core jQuery designed specifically for the server
+[^^]: - [mongoose](http://mongoosejs.com/) - elegant mongodb object modeling for node.js
+[^^]: - [SuperAgent](http://visionmedia.github.io/superagent/) - Super Agent is light-weight progressive ajax API
+[^^]: - [connect-mongo](https://github.com/kcbanner/connect-mongo) - MongoDB session store for Express and Connect
+[^^]: - [Morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js
 
-[^^]:## CSS
-[^^]:- [loaders.css](https://connoratherton.com/loaders) - Delightful and performance-focused pure css loading animations
-[^^]:- [Load Awesome](http://github.danielcardoso.net/load-awesome/animations.html) - Pure CSS Loaders and Spinners 
-[^^]:- [Hover.css](http://ianlunn.github.io/Hover/) - Collection of CSS3 powered hover effects
-[^^]:- [Animate.css](https://github.com/daneden/animate.css) - Bunch of cool, fun, and cross-browser animation. 
+[^^]: ## CSS
+[^^]: - [loaders.css](https://connoratherton.com/loaders) - Delightful and performance-focused pure css loading animations
+[^^]: - [Load Awesome](http://github.danielcardoso.net/load-awesome/animations.html) - Pure CSS Loaders and Spinners 
+[^^]: - [Hover.css](http://ianlunn.github.io/Hover/) - Collection of CSS3 powered hover effects
+[^^]: - [Animate.css](https://github.com/daneden/animate.css) - Bunch of cool, fun, and cross-browser animation. 
 
 ## Front-end web UI/Framework
 - [Bootstrap](http://getbootstrap.com/) - HTML, CSS, and JS framework for developing responsive, mobile first projects on the web
