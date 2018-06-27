@@ -27,7 +27,9 @@ menu: Bookmark
 - [Robolectric](http://robolectric.org/) - Unit test framework
 
 ### Links about Android
-- [Android Fragment onCreateView vs. onActivityCreated](https://stackoverflow.com/questions/8041206/android-fragment-oncreateview-vs-onactivitycreated) - An interesting conversation in the first anwser follow reply.
+
+- [Android Source](http://androidxref.com/)
+- [Android Fragment onCreateView vs. onActivityCreated](https://stackoverflow.com/questions/8041206/android-fragment-oncreateview-vs-onactivitycreated) - An interesting conversation in the first answer follow reply.
 - [Android Activity Life-Cycle for Professional Developers](https://www.techyourchance.com/android-activity-life-cycle-for-professional-developers/) - Simpler and more complete than most of the resources out there (including the official documentation, unfortunately).
 
 [^^]: ## IOS
